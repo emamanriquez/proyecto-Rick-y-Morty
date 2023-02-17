@@ -1,0 +1,16 @@
+.search{
+    border-color: green;
+    margin: 30px;
+    margin-right: 40px;
+}
+
+.agregar{
+ margin: 30px;
+ border-color: yellow;
+    
+}
+
+.random{
+margin: 20px;
+border-color: blue;
+}
